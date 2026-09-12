@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# MOGGER3000
 
 
 ## Basic Details
@@ -26,20 +26,18 @@ We, at Abadham brings you a camera whose timer does not fulfill it's true purpos
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- LANGUAGES: TypeScript, HTML, (Tailwind) CSS
+- FRAMEWORKS: Next.js, React, Node.js
+- TOOLS & LIBRARIES:  @mediapipe/tasks-vision, framer-motion, zustand, font-awesome/react-fontawesome, lucide-react
 
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+npm install
 
 # Run
-[commands]
-
+npm run dev
 ### Project Documentation
 For Software:
 
