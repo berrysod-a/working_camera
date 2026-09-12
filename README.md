@@ -43,18 +43,18 @@ For Software:
 
 # Screenshots (Add at least 3)
 
-
+<img width="1600" height="843" alt="WhatsApp Image 2026-09-12 at 13 27 04" src="https://github.com/user-attachments/assets/febb7f66-a141-49fb-b81d-a553e0be6fe5" />
+*The Gallery where user can see their much awaited captures*
 
 <img width="1510" height="941" alt="WhatsApp Image 2026-09-12 at 13 27 57" src="https://github.com/user-attachments/assets/e1279003-fb50-49c1-aa05-ca35341db581" />
 
-<img width="1600" height="843" alt="WhatsApp Image 2026-09-12 at 13 27 04" src="https://github.com/user-attachments/assets/febb7f66-a141-49fb-b81d-a553e0be6fe5" />
+*Sometimes, the user can get rickrolled if they pick the 5 second timer before it captures their reaction*
 
-*Add caption explaining what this shows*
 
 
 <img width="1452" height="902" alt="WhatsApp Image 2026-09-12 at 13 25 59" src="https://github.com/user-attachments/assets/d9fde9af-fb6b-4f41-9b25-05689a9d3c10" />
 
-*Add caption explaining what this shows*
+*You get to download or delete your awesome picture at the end of it!*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -70,9 +70,9 @@ For Software:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Nicole Mercy Daison : Idea, Code
+- Theresa Antony: Idea, Code
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
