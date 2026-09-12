@@ -6,22 +6,22 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name:  അബദ്ധം [ABADHAM]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Nicole Mercy Daison - Christ College of Engineering
+- Member 2: Theresa Antony - Christ College of Engineering
 
 ### Project Description
-[2-3 lines about what your project does]
+A useless webcam that won't click your photo until you look away from it.
+When you use the timer, the countdown is messed up - 3 seconds might go as long as 7 seconds; if you pick 10 seconds, the camera captures in 4. 
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+### The Problem (that doesn't exist):
+People find it difficult when they set a timer to the camera and it captures exactly when the countdown gets over. It's annoying when the photo is taken when we are looking at the camera.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We, at Abadham brings you a camera whose timer does not fulfill it's true purpose. Infact, the camera helps capture the picture at a very different time frame than what you preferred. Also, our camera let's you click a picture when you are not even looking at it!
 
 ## Technical Details
 ### Technologies/Components Used
@@ -31,10 +31,6 @@ For Software:
 - [Libraries used]
 - [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
@@ -61,24 +57,6 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
