@@ -42,12 +42,17 @@ npm run dev
 For Software:
 
 # Screenshots (Add at least 3)
-![firstuseless]("C:\Users\admin\Downloads\WhatsApp Image 2026-09-12 at 13.27.04.jpeg")
+![Screenshot1]
+<img width="1600" height="843" alt="WhatsApp Image 2026-09-12 at 13 27 04" src="https://github.com/user-attachments/assets/febb7f66-a141-49fb-b81d-a553e0be6fe5" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2]
+<img width="1510" height="941" alt="WhatsApp Image 2026-09-12 at 13 27 57" src="https://github.com/user-attachments/assets/e1279003-fb50-49c1-aa05-ca35341db581" />
+
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3]
+<img width="1452" height="902" alt="WhatsApp Image 2026-09-12 at 13 25 59" src="https://github.com/user-attachments/assets/d9fde9af-fb6b-4f41-9b25-05689a9d3c10" />
+
 *Add caption explaining what this shows*
 
 # Diagrams
